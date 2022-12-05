@@ -1,5 +1,5 @@
 # rust-rocksdb
-modification on v5.4
+modification on v5.4 with dependency of nicholas' titan
 
 [![Build Status](https://travis-ci.org/tikv/rust-rocksdb.svg)](https://travis-ci.org/tikv/rust-rocksdb)
 [![Dependency Status](https://deps.rs/repo/github/tikv/rust-rocksdb/status.svg)](https://deps.rs/repo/github/tikv/rust-rocksdb)
